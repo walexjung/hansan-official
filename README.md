@@ -35,3 +35,7 @@
 ## 기술 구성
 
 HTML, CSS, 바닐라 JavaScript, SVG. 한국어/영어 전환, 반응형 메뉴, Open Graph 정보, 기본 키보드 접근성을 지원합니다. Google Fonts를 연결했지만 폰트 연결에 실패해도 기본 폰트로 표시됩니다.
+
+
+## Official game banner edition
+The homepage hero uses `images/hansan-game-banner.png` supplied by the game creator. The image is displayed in full, preserving the title, rather than cropping it behind text. Replace the existing `index.html` and upload this new image to `images/` in the same repository.
